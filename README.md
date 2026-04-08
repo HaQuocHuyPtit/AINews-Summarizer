@@ -1,4 +1,4 @@
-# AInsight — Daily AI Research Digest
+# AInsight: Daily AI Research Digest
 
 Hệ thống tự động tìm kiếm, tóm tắt bài báo nghiên cứu AI mới nhất và gửi email digest hàng ngày cho các thành viên trong team.
 
